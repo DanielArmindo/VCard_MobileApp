@@ -11,7 +11,7 @@ This project involves the development of a mobile app that will provide a virtua
 - The user will also be able to create a virtual card using their phone number.
 - The app will allow notifications and will have the Piggy Bank Vault feature, which will allow the user to create a specific savings tab where they can save some money from their card.
 
-==Attention:==
+**Attention**:
 
 This project has the same structure as the project [Vcard_WebApp](https://github.com/DanielArmindo/VCard_WebApp), however the focus of the frontend is not on a SPA (Single Page Application) using the Vue framework, but on a mobile application to facilitate accessibility in the context of the problem.
 
